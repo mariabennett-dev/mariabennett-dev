@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Header](https://raw.githubusercontent.com/mariabennett-dev/<OWNER>/<OWNER>/readme_header.png "Header")]
 
 <!--
 **mariabennett-dev/mariabennett-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
