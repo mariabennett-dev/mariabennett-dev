@@ -13,8 +13,8 @@ You can find me on <a href = "https://www.linkedin.com/in/maria-bennett-49914a86
 
 <h4>Technologies and Tools</h4>
 <div display = "grid" grid-template-columns: auto auto auto auto auto>
-  <img src="https://raw.githubusercontent.com/mariabennett-dev/mariabennett-dev/main/code-c%2B%2B-blue.svg?token=GHSAT0AAAAAABT5USYF6VOLOG3XXLWO4TXWYTURJFQ"/>
-  <img src="https://raw.githubusercontent.com/mariabennett-dev/mariabennett-dev/main/code-c%23-blue.svg?token=GHSAT0AAAAAABT5USYEO45ZBR6FARKDO646YTURIHQ"/>
+  <img src="https://raw.githubusercontent.com/mariabennett-dev/mariabennett-dev/main/code-c%2B%2B-blue.svg?token=GHSAT0AAAAAABT5USYFG3PV6CJXR57B4C2YYTUTCNQ"/>
+  <img src="https://raw.githubusercontent.com/mariabennett-dev/mariabennett-dev/main/code-c%23-blue.svg?token=GHSAT0AAAAAABT5USYEYY67GP6BPZQCZ76CYTUTDGQ"/>
   <img src="https://raw.githubusercontent.com/mariabennett-dev/mariabennett-dev/main/code-sql-blue.svg?token=GHSAT0AAAAAABT5USYE5ROWAZC5ZSMVGNEUYTURJVA"/>
   <img src="https://raw.githubusercontent.com/mariabennett-dev/mariabennett-dev/main/web-html-yellow.svg?token=GHSAT0AAAAAABT5USYEDOUMU5NQXIENM6ZIYTURLKA"/>
   <img src="https://raw.githubusercontent.com/mariabennett-dev/mariabennett-dev/main/web-css-yellow.svg?token=GHSAT0AAAAAABT5USYF7KZYEQPFZ7Z45ZNGYTURK3A"/>
