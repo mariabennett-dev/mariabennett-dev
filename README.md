@@ -4,7 +4,7 @@ Hi there!
 
 My name is Maria Bennett and I am a Software Technology student at Ogden-Weber Technical College. In my pre-child life, I was a student services professional in higher ed with a B.A. in Psychology. After my first child was born, I started studying computer science to keep my brain active. I have retained my interest in education, but would like to explore the possibilities of a software development career. 
 
-You can find me on <a href = "https://www.linkedin.com/in/maria-bennett-49914a86/">
+You can find me on <a href = "https://www.linkedin.com/in/maria-bennett-dev/">
   <image src = "https://github.com/mariabennett-dev/mariabennett-dev/blob/main/li.png" width = "18px"/>
   </a>
   or <a href = "https://dev.to/mariabennett">
