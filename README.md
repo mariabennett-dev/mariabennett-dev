@@ -1,4 +1,4 @@
-![Header](https://github.com/mariabennett-dev/mariabennett-dev/blob/main/Header.png "Header")
+![Header](Header.png)
 
 Hi there!
 
