@@ -1,8 +1,8 @@
  ![Header](Header.png)
 
-<h2>Using computer and data science to solve meaningful problems and create solutions that make a difference for individuals and communities.</h2>
+<h2 style="text-align:center">Using computer and data science to solve meaningful problems and create solutions that make a difference for individuals and communities.</h2>
 
-<h2>Key Skills:</h2>
+<h3>Key Skills:</h3>
 <ul>
   <li>Machine Learning/Deep Learning (Python/PySpark)</li>
   <li>Data ETL</li>
