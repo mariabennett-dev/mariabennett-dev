@@ -5,9 +5,8 @@
 <h3>Key Skills:</h3>
 <ul>
   <li>Machine Learning/Deep Learning (Python/PySpark)</li>
-  <li>Data ETL</li>
+  <li>Data ETL, Visualization, Communication, and Training</li>
   <li>SQL</li>
-  <li>Data Visualization, Communication, and Training</li>
   <li>JavaScript, C#, C++</li>
   <li>HTML/CSS</li>
 </ul>
