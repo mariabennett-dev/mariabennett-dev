@@ -1,6 +1,6 @@
  ![Header](Header.png)
 
-<h2 style="text-align:center">Using computer and data science to solve meaningful problems and create solutions that make a difference for individuals and communities.</h2>
+<h2><center>Using computer and data science to solve meaningful problems and create solutions that make a difference for individuals and communities.</center></h2>
 
 <h3>Key Skills:</h3>
 <ul>
