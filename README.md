@@ -1,8 +1,16 @@
-![Header](Header.png)
+ ![Header](Header.png)
 
-Hi there!
+<h2>Using computer and data science to solve meaningful problems and create solutions that make a difference for individuals and communities.</h2>
 
-My name is Maria Bennett and I am a Computer/Data Science student at Weber State University. I believe that computer and data science can help solve some of the world's big problems, and I love working on challenges that also make a difference for individuals and communities.
+<h2>Key Skills:</h2>
+<ul>
+  <li>Machine Learning/Deep Learning (Python/PySpark)</li>
+  <li>Data ETL</li>
+  <li>SQL</li>
+  <li>Data Visualization, Communication, and Training</li>
+  <li>JavaScript, C#, C++</li>
+  <li>HTML/CSS</li>
+</ul>
 
 You can find me on <a href = "https://www.linkedin.com/in/maria-bennett-dev/">
   <image src = "https://github.com/mariabennett-dev/mariabennett-dev/blob/main/li.png" width = "18px"/>
