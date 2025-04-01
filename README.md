@@ -2,7 +2,7 @@
 
 <h3>Key Skills:</h3>
 <ul>
-  <li>Machine Learning/Deep Learning (Python/PySpark)</li>
+  <li>Machine Learning/Deep Learning (Python/PySpark, PyTorch)</li>
   <li>Data ETL, Visualization, Communication, and Training</li>
   <li>SQL</li>
   <li>JavaScript, C#, C++</li>
