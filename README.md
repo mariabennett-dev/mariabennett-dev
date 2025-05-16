@@ -9,10 +9,12 @@
   <li>HTML/CSS</li>
 </ul>
 
-You can find me on <a href = "https://www.linkedin.com/in/maria-bennett-dev/">
+You can also find me on <a href = "https://www.linkedin.com/in/maria-bennett-dev/">
   <image src = "https://github.com/mariabennett-dev/mariabennett-dev/blob/main/li.png" width = "18px"/>
+  </a>, <a href = "https://gitlab.com/mariabennett">
+  <image src = "https://github.com/mariabennett-dev/mariabennett-dev/blob/main/GitLabLogo.png" width = "18px"/>
   </a>
-  or <a href = "https://dev.to/mariabennett">
+  , or <a href = "https://dev.to/mariabennett">
   <img src = "https://github.com/mariabennett-dev/mariabennett-dev/blob/main/dev-rainbow.png" width = "17px"/>
   </a>.
 
